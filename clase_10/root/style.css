@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto', sans-serif; 
+}
+
+main {
+    margin-top: 120px;
+    margin-left: 30px;
+    margin-bottom: 120px;
+    margin-right: 70px;
+}
+h3 {
+    background-color: #1CD1B0;
+    text-indent: 5px;
+    font-weight: 700;
+    padding: 10px
+}
+
+h1 {
+    background-color: #00669F; 
+    padding: 20px;
+    text-indent: -3px;
+    line-height: 46.88px;
+    font-weight: 400;
+}
+
+header {
+box-shadow:10px 5px 5px gray;
+}
+
+.batman1 {
+    background-color: #F3F3F3;
+    margin-top: 120px;
+    margin-left: 50px;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+
+.batman {
+    border-radius:150px;
+    position:relative;
+    top: -55px;
+    left: 90px;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    top: -50px;
+    font-weight: 200;
+}
+
+p {
+    margin-left: 5px;
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    top: -40px;
+    text-align: center;
+}
+.boton {
+    color:#FFF;
+    font-size: 17px;
+    background-color: #00669F;
+    width: 80px;
+    padding: 15px;
+    position: relative;
+    top: -30px;
+    left: 90px
+}
+.corazon {
+    position: relative;
+    top: -500px;
+    left: 10px;
+}
+main {
+    justify-content: space-between;
+}
+
+.harley_quinn {
+    background-color: #F3F3F3;
+    margin-top: -500px;
+    margin-left: 450px;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.harley {
+    border-radius:150px;
+    position:relative;
+    top: -55px;
+    left: 90px;
+}
+.boton2 {
+    color:#FFF;
+    font-size: 17px;
+    background-color: #00669F;
+    width: 80px;
+    padding: 15px;
+    position: relative;
+    top: -30px;
+    left: 90px
+}
+
+.corazon2 {
+    position: relative;
+    top: -500px;
+    left: 10px;
+}
+
+.batman2 {
+    background-color: #F3F3F3;
+    margin-top: -500px;
+    margin-left: 850px;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+
+.batman_2 {
+    border-radius:150px;
+    position:relative;
+    top: -55px;
+    left: 90px;
+}
+.corazon3 {
+    position: relative;
+    top: -475px;
+    left: 10px;
+}
+.boton3 {
+    color: #FFF;
+    background-color: #00669F;
+    font-size: 17px;
+    background-color: #00669F;
+    width: 80px;
+    padding: 15px;
+    position: relative;
+    top: -30px;
+    left: 90px
+}
+
+footer {
+    background-color: #00669F;
+    color: #FFF;
+    text-indent: -2px;
+    letter-spacing: 1px;
+    padding: 20px
+}
+
